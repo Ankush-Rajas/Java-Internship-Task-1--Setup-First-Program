@@ -1,4 +1,3 @@
-<img width="918" height="221" alt="image" src="https://github.com/user-attachments/assets/30c4265e-acc4-4bc2-9b96-f1857b299d9b" /># Java-Internship-Task-1--Setup-First-Program
 
 📌 Description
 
@@ -14,4 +13,5 @@ Text Editor (Notepad)
 
 Windows OS
 
+<img width="918" height="221" alt="image" src="https://github.com/user-attachments/assets/30c4265e-acc4-4bc2-9b96-f1857b299d9b" /># Java-Internship-Task-1--Setup-First-Program
 
